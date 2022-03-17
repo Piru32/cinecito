@@ -1,0 +1,4 @@
+div.container div.row div.card img:hover {
+    transition: all ease-out 0.3s;
+    transform: scale(1.02);
+}
